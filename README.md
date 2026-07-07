@@ -1,6 +1,8 @@
 # ecosomier-mendoza-agile-ecommerce
 Real-world e-commerce project managed with Agile/Scrum practices, focused on usability, integrations, and business value.
-# Ecosomier Mendoza – Agile Ecommerce
+# Plataforma de ecomerce – Agile Ecommerce
+<img width="1896" height="903" alt="image" src="https://github.com/user-attachments/assets/2be9eb5f-3874-4151-b70e-c75c24c77b1a" />
+
 
 Proyecto de organización y planificación ágil para el emprendimiento **Ecosomier Mendoza**, orientado a la venta de sommiers, colchones y muebles.
 
